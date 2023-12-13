@@ -7,8 +7,7 @@ Greetings, developers! Welcome to the Culinarix API Documentation. Below are the
 | Links                  | Description                     |
 |---------------------------|---------------------------------|
 | [Collaborative Filtering API](https://github.com/alghoziii/culinarix-collaborative-filtering)  | Get restaurant recommendations based on the Collaborative Filtering  |
-| [Content-Based Recommendation API](https://github.com/LeeVonks/culinarix-content-based)
-              | restaurant recommendations based on the unique characteristics of each dining establishment.        |
+| [Content-Based Recommendation API](https://github.com/LeeVonks/culinarix-content-based) | restaurant recommendations based on the unique characteristics of each dining establishment.        |
 |  [Login - Register API](https://github.com/alghoziii/api-login-register) |  the implementation of the login and registration API for the Culinarix project.  |
 
 ### 1. [Collaborative Filtering API](https://github.com/alghoziii/culinarix-collaborative-filtering)

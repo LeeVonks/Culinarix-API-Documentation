@@ -51,4 +51,18 @@ Get ready to experience seamless user authentication with our Login - Register A
 | POST   | `/auth/login`          | Log in a user        |
 | GET    | `/user/details` | Get user information |
 
+## List of Technologies Used
+
+- **Google Cloud Run** : Serverless execution platform for running serverless applications.
+- **Google Cloud Storage** : Object storage service for storing and managing data.
+- **Firestore** : NoSQL database for storing and retrieving data.
+- **Flask** : Web framework for building APIs and handling requests.
+- **Dockerfile** : Defines how to build a Docker image for containerized deployment.
+- **TensorFlow** : Popular library for machine learning, deep learning, and numerical computation.
+- **Pickles** : Saves and loads machine learning models for efficient reuse.
+- **JSON Web Token (JWT)** : Secure authentication and authorization.
+
+*For more detail on our technology used, please visit the corresponding repository.*
+
+##
 Feel free to dive into these APIs and enhance your Culinarix experience. If you have any questions or suggestions, our development team is here to assist you. Happy coding! 🚀

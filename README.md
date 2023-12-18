@@ -4,6 +4,8 @@ Greetings, developers! Welcome to the Culinarix API Documentation. Below are the
 
 **Links to each Repository**
 
+*For more information on our RESTful APIs, please visit the corresponding repository below.*
+
 | Links                  | Description                     |
 |---------------------------|---------------------------------|
 | [Our Capstone Dashboard](https://github.com/keeptrain/Culinarix) | Culinarix Dashboard GitHub Repositories for Capstone Project Bangkit Academy 2023 batch 2  |

@@ -21,8 +21,6 @@ Explore the Collaborative Filtering API, where culinary adventures begin! Get pe
 | GET    | `/prediction/{user_id}`  | Get restaurant recommendations based on the Collaborative Filtering  |
 | GET    | `/top-rated`              | Get top-rated restaurants        |
 
-**Postman Documentation:**
-- [Collaborative Filtering API Postman Collection](#) (Insert the link to your Postman Collection)
 
 ### 2. [Content-Based Recommendation API](https://github.com/LeeVonks/culinarix-content-based)
 
@@ -37,8 +35,6 @@ Indulge in the Content-Based Recommendation API, where taste meets technology! D
 | GET    | `/search`              | Get restaurant details with search feature        |
 
 
-**Postman Documentation:**
-- [Content-Based Recommendation API Postman Collection](#) (Insert the link to your Postman Collection)
 
 ### 3. [Login - Register API](https://github.com/alghoziii/api-login-register)
 
@@ -51,8 +47,5 @@ Get ready to experience seamless user authentication with our Login - Register A
 | POST   | `/auth/register`      | Register a new user  |
 | POST   | `/auth/login`          | Log in a user        |
 | GET    | `/user/details` | Get user information |
-
-**Postman Documentation:**
-- [Login - Register API Postman Collection](#) (Insert the link to your Postman Collection)
 
 Feel free to dive into these APIs and enhance your Culinarix experience. If you have any questions or suggestions, our development team is here to assist you. Happy coding! 🚀

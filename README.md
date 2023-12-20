@@ -33,7 +33,7 @@ Indulge in the Content-Based Recommendation API, where taste meets technology! D
 
 | Method | Endpoint                  | Description                     |
 |--------|---------------------------|---------------------------------|
-| GET    | `/recommendations/{place}`| Get restaurant recommendations based on the content-based recommendation |
+| GET    | `/recommendations/{place_name}`| Get restaurant recommendations based on the content-based recommendation |
 | GET    | `/top-rated`              | Get top-rated restaurants        |
 | GET    | `/search`              | Get restaurant details with search feature        |
 
